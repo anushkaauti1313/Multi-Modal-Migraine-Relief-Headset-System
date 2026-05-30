@@ -52,6 +52,11 @@ Migraines are commonly caused by stress, muscle tension, and sensory overload. E
 
 ![Headset Prototype](Headset_prototype.jpeg)
 
+## Documentation
+
+- [Research Paper](./EDI_ResearchPaper.pdf)
+- [Project Presentation](./EDI_ppt.pdf)
+  
 ## Future Scope
 
 * AI-Based Personalized Therapy
